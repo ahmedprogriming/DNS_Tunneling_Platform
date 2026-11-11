@@ -1,0 +1,21 @@
+timestamp,domain,query_type,query_length,subdomain_length,entropy,num_numeric,label
+2026-11-10 10:00:01,google.com,A,10,6,2.32,0,0
+2026-11-10 10:00:02,github.com,A,10,6,2.52,0,0
+2026-11-10 10:00:05,api.microsoft.com,A,17,3,2.81,0,0
+2026-11-10 10:00:07,en.wikipedia.org,A,16,2,2.75,0,0
+2026-11-10 10:00:10,mail.google.com,A,15,4,2.69,0,0
+2026-11-10 10:00:12,dns.cloudflare.com,A,18,3,2.85,0,0
+2026-11-10 10:00:15,cdn.jsdelivr.net,A,16,3,2.71,0,0
+2026-11-10 10:00:18,connectivitycheck.gstatic.com,A,30,17,3.12,0,0
+2026-11-10 10:00:20,update.microsoft.com,A,20,6,2.94,0,0
+2026-11-10 10:00:25,static.xx.fbcdn.net,CNAME,19,9,3.01,0,0
+2026-11-10 10:00:30,4a7f9b2c8e1d5a3f.tunnel.attacker.com,TXT,35,16,4.18,9,1
+2026-11-10 10:00:31,d41d8cd98f00b204e9800998ecf8427e.exfil.org,TXT,42,32,4.35,14,1
+2026-11-10 10:00:32,c4ca4238a0b923820dcc509a6f75849b.dnstunnel.net,TXT,45,32,4.29,18,1
+2026-11-10 10:00:35,7b8b965ad4bca0e41ab51de7b31363a1.hidden.cc,TXT,42,32,4.41,16,1
+2026-11-10 10:00:37,e4da3b7fbbce2345d7772b0674a318d5.tunnel.io,A,41,32,4.38,15,1
+2026-11-10 10:00:40,1679091c5a880faf6fb5e6087eb1b2dc.c2server.biz,TXT,44,32,4.45,17,1
+2026-11-10 10:00:42,8f14e45fceea167a5a36dedd4bea2543.dnsdata.info,TXT,44,32,4.31,19,1
+2026-11-10 10:00:45,c9f0f895fb98ab9159f51fd0297e236d.evil-domain.com,A,47,32,4.48,16,1
+2026-11-10 10:00:48,45c48cce2e2d7fbdea1afc51c7c6ad26.exfiltration.me,TXT,47,32,4.39,18,1
+2026-11-10 10:00:50,d8578edf8458ce06fbc5bb76a58c5ca4.tunnel.attacker.com,TXT,51,32,4.42,16,1
